@@ -1,0 +1,46 @@
+body{
+    background-color: #ffecf5;
+}
+.img1{
+    float: left;
+    text-align: center;
+    margin-top: 0%;
+}
+.img1 a{
+    text-decoration: none;
+}
+.img1 a:hover{
+    color: #f28f08f3;
+}
+.neirong1{
+    align:center;
+}
+h1{
+    color: #d89948d3;
+}
+.neirong1 p2{
+    text-indent:2em;
+    margin-bottom: 0px;
+    margin-top: 0px
+}
+.neirong1 p1{
+    margin-bottom: 0px;
+}
+
+table
+  {
+    border-collapse:collapse;
+  }
+
+table,th, td
+  {
+    border: 0px solid black;
+    width: 1000px;
+  }
+  p{
+    text-indent:2em;
+  }
+  td
+  {
+    height:40px;
+  }
